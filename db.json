@@ -1,0 +1,54 @@
+{
+  "products": [
+    {
+      "name": "BARDI Smart LIGHT BULB RGB+WW 12W Wifi Wireless IoT - Home Automation",
+      "price": "190000",
+      "stock": "11",
+      "category": "Lampu",
+      "photo_url": "https://images.tokopedia.net/img/cache/900/product-1/2019/12/23/48125333/48125333_4d252664-1cfd-49a5-aede-77e5bf258eee_700_700",
+      "id": 1
+    },
+    {
+      "name": "Lampu LED Strip RGBWW Wifi 2m - control by app / google home / alexa",
+      "price": "109000",
+      "stock": "299",
+      "category": "Lampu",
+      "photo_url": "https://images.tokopedia.net/img/cache/900/VqbcmM/2020/11/4/9da0f476-2179-4fe2-9f7d-70dcd451e4d1.jpg",
+      "id": 2
+    },
+    {
+      "name": "BARDI Smart Indoor PTZ IP Camera CCTV 3 Pcs + Cloud Storage",
+      "price": "1398900",
+      "stock": "20",
+      "category": "CCTV",
+      "photo_url": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/6/9/b021f4ef-faca-4f90-8170-7c24f7c64de8.jpg",
+      "id": 3
+    }
+  ],
+  "users": [
+    {
+      "email": "testdev@mail.com",
+      "password": "$2a$10$X.es.XqP9OsID0O5UZq3gOQfx7VR3L2iA.hNMNIWi16fHdYROkT02",
+      "username": "testdev@mail.com",
+      "id": 1
+    },
+    {
+      "email": "asd@mail.com",
+      "password": "$2a$10$rNQT7xjvuMYERlJpCIhSWOFE70.02iTyAbzJsEtvFENtONw8po.UC",
+      "id": 59921068,
+      "join_date": "Fri Mar 18 2022 00:52:31 GMT+0700 (Western Indonesia Time)",
+      "username": "asd@mail.com",
+      "address": "jakarta",
+      "phone_number": "62874859367"
+    },
+    {
+      "email": "admin@admin.com",
+      "password": "$2a$10$G.Vuqaa2/K1m/gtpi7df8O/qVJCXTsPJf411XVuPRuTDwFdMqY5/u",
+      "id": 146158207,
+      "join_date": "Sun Aug 14 2022 13:24:53 GMT+0700 (Western Indonesia Time)",
+      "username": "admin123",
+      "address": "admin",
+      "phone_number": "081317027702"
+    }
+  ]
+}
